@@ -28,13 +28,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/babasport.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="544" column="29" lean-forward="true" selection-start-line="544" selection-start-column="29" selection-end-line="544" selection-end-column="29" />
+            <state relative-caret-position="168">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -43,11 +46,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="967" />
-    <option name="y" value="148" />
+    <option name="x" value="202" />
+    <option name="y" value="2" />
     <option name="width" value="1750" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -61,24 +65,6 @@
             <path>
               <item name="babasport12" type="b2602c69:ProjectViewProjectNode" />
               <item name="babasport12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="babasport12" type="b2602c69:ProjectViewProjectNode" />
-              <item name="babasport12" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="babasport12" type="b2602c69:ProjectViewProjectNode" />
-              <item name="babasport12" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="babasport12" type="b2602c69:ProjectViewProjectNode" />
-              <item name="babasport12" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -116,16 +102,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564892856990</updated>
-      <workItem from="1564892864730" duration="1628000" />
+      <workItem from="1564892864730" duration="1912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1628000" />
+    <option name="totallyTimeSpent" value="1912000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="85" y="17" width="1400" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="162" y="2" width="1400" height="832" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -136,7 +121,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15275708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2681883" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3642857" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" />
@@ -173,8 +158,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/babasport.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="544" column="29" lean-forward="true" selection-start-line="544" selection-start-column="29" selection-end-line="544" selection-end-column="29" />
+        <state relative-caret-position="168">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
